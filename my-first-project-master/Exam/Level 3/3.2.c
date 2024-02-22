@@ -1,3 +1,4 @@
+//Code for calculate radian to degrees. Don't use integer number.
 #include <stdio.h>
 
 int main() {
