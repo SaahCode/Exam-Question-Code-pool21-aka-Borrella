@@ -1,3 +1,4 @@
+//Code for find digit of odd numbers from number.
 #include <stdio.h>
 
 int main() {
