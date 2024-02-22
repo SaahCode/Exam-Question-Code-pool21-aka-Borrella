@@ -1,3 +1,4 @@
+//Code for find max number from massive, end of the massive -1.
 #include <stdio.h>
 
 int main() {
