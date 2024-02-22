@@ -1,3 +1,4 @@
+//Code for find factorial number and binomial coefficient
 #include <stdio.h>
 
 long long fact(int n) {
