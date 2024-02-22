@@ -1,3 +1,4 @@
+//Code for calculate mass of platinum ball. Don't forget - if you delete integer number language C don't look nubmer after comma. For do correct code always write ".0" after number.
 #include <math.h>
 #include <stdio.h>
 int main() {
